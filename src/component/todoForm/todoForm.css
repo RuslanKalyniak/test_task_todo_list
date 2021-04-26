@@ -1,0 +1,14 @@
+.form {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  width: 500px;
+  height: 40px;
+}
+
+.buttonInput {
+  margin: auto;
+}
